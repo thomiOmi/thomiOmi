@@ -6,24 +6,15 @@
 
 ---
 
-### Hey 👋 I'm Thomi Syauqi
-
-I'm a **Frontend Developer** who loves building clean, responsive, and user-friendly web interfaces.  
-Currently exploring **Vue**, **Tailwind**, and **Laravel** to create modern UI experiences.
+## 👋 Hi, I'm Thomi Syauqi  
+**Frontend Developer** · Focused on clean interfaces and modern web experiences.
 
 ---
 
-#### 🧠 Currently Learning
-- Advanced Vue patterns and composition API  
-- Reusable UI components  
-- Vue–Laravel integration
-
----
-
-#### 🛠️ Tech Stack
-**Frameworks:** Vue, Laravel  
-**Styling:** Tailwind CSS, Bootstrap  
-**Tools:** Vite, npm, Git  
+### 🧩 About
+I enjoy turning ideas into functional, elegant user interfaces.  
+Currently working with **Vue**, **Tailwind CSS**, and **Laravel** to craft modern web apps.  
+Always learning, exploring, and improving the way I build things on the web.
 
 ---
 
